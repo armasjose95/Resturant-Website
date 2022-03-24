@@ -1,2 +1,2 @@
 # Resturant-Website
-Static website for a Resturant Website with a carousel and etc.
+Static website for a Resturant built using HTML, CSS, BOOTSTRAP & JavaScript.
